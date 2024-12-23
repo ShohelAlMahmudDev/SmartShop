@@ -1,10 +1,10 @@
-##Smart Shop 
+## Smart Shop 
 
-**is shoping cart project.
+** is shoping cart project.
 
-##development has begin. 
+## development has begin. 
 
-##only one microservice has been developed
+## only one microservice has been developed
 
 all the microservices are coming soon
 
